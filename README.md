@@ -6,3 +6,4 @@ Ao executar, uma interface interativa irá aparecer, nela estará várias opçõ
 4- Posição : este campo está relacionado com as opoções na tabela na parte debaixo da interface, logo você digitará a posição que deseja
 5- Jogar : ao ter a sua posição digitada, aperte em jogar para efetivar a sua jogada 
 6- Reiniciar : reinicia o jogo
+ 
